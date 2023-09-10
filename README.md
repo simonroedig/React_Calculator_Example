@@ -1,8 +1,7 @@
 # Simple Calculator with React and a Nice UI
 
-![Calculator Snapshot](snapshot.png)
+<img src="snapshot.png" alt="Calculator Snapshot" width="50%" height="50%">
 
-## Description
 
-This is a simple calculator web application built using React that comes with an elegant user interface.
+
 
